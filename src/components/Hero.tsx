@@ -24,7 +24,7 @@ const Hero = () => {
                 </div>
                 <div className="contact-item">
                     <span className="icon">📄</span>
-                    <a href="https://drive.google.com/file/d/1RunIp3dVRFd5FNwUlr1RvXreC57ITrxp/view?usp=sharing" download>Descargar CV</a>
+                    <a href="https://drive.google.com/file/d/1rotbG8q98fbqFc91JSLzURHav8ikCeIz/view?usp=sharing" download>Descargar CV</a>
                 </div>
             </div>
         </header>
