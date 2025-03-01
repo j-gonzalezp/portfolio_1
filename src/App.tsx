@@ -6,9 +6,9 @@ import './styles/index.css';
 const Aside = () => (
     <aside>
         <h2>Resumen</h2>
-        <p>Matemático por formación, desarrollador por pasión y curioso por naturaleza. Con una sólida base lógica, he aplicado mi conocimiento a proyectos educativos que integran tecnología y aprendizaje.</p>
-        <p>Mi objetivo es seguir creciendo profesionalmente en el mundo del desarrollo Full Stack. Soy un defensor de la innovación colaborativa y mi pasión es aprender, enseñar y crear.</p>
-        <p><em>"Donde otros ven un problema, yo veo una oportunidad de crear."</em></p>
+        <p>Desarrollador Full Stack especializado en Frontend, con sólidas bases teóricas, 
+            alta capacidad lógica y resolución de problemas. Apasionado por la innovación y el aprendizaje,
+             destaco por mi trabajo en equipo y compromiso.</p>
 
         <h2>Aptitudes</h2>
         <h3>Técnicas</h3>

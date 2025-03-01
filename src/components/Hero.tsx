@@ -16,7 +16,7 @@ const Hero = () => {
                 </div>
                 <div className="contact-item">
                     <span className="icon">💼</span>
-                    <a href="https://linkedin.com/in/joaquín-gonzález" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/joaqu%C3%ADn-gonz%C3%A1lez-parada-a0921a298/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                 </div>
                 <div className="contact-item">
                     <span className="icon">🌐</span>
